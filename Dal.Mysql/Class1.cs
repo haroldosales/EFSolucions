@@ -4,7 +4,7 @@
     {
         public Class1() 
         {
-
+            Console.WriteLine("camada2");
         }
 
     }
